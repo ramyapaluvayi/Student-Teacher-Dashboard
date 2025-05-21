@@ -19,7 +19,7 @@ This is a student-teacher dashboard application built using Python and MySQL. Th
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AnjaliPujala/StudentTeacherDashboard.git
+    git clone https://github.com/ramyapaluvayi/StudentTeacherDashboard.git
     ```
 
 
