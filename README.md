@@ -75,19 +75,7 @@ This is a student-teacher dashboard application built using Python and MySQL. Th
 - Students can view their profile information, upload certificates, and view posts related to their courses.
 - Faculty members can view their profile information, upload certificates, and manage groups.
 
-## Screenshots
 
-![Login Screen](login.png)
-*Login Screen*
-
-![Register_Interface](register.png)
-*Register Interface*
-
-![Home Interface](home.png)
-*Home Interface*
-
-![Profile Management](profile.png)
-*Profile Management*
 
 ![Group Management](groups.png)
 *Group Management*
